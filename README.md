@@ -1,4 +1,4 @@
-# Online-voting-System
+# Online-Voting-System
 
 First, download the project and extract them.
 Then open your XAMPP and fire up the Apache server and MySQL server.
